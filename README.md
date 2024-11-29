@@ -1,2 +1,3 @@
-# fastAiPack
-fastAI项目的模块下载包
+# Release Files
+
+此仓库用于存储发布文件。
